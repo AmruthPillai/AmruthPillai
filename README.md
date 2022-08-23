@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthpillai" alt="amruthpillai" /> </p>
 
-- 🔭 I’m currently working at [Twilio Inc.](https://www.twilio.com/)
+- 🔭 I’m currently working at [Elara Digital GmbH](https://www.getelara.de/en), Berlin
 
 - 🤝 I’m looking for help with [Reactive Resume](https://github.com/Reactive-Resume/Reactive-Resume)
 
